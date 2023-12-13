@@ -55,7 +55,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/xu756/co
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=xu756&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=xu756&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 

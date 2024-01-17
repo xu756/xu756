@@ -3,14 +3,16 @@
   <div>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);甲新同学 祝您今天愉快!&center=true&size=27" />
   </div>
-    <picture>
+<!--     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/xu756/xu756@output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/xu756/xu756@output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/xu756/xu756@output/github-contribution-grid-snake.svg" />
-  </picture>
+  </picture> -->
 
 
 
+
+<!--   
 
 
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bytesnex@gmail.com)
@@ -50,8 +52,12 @@
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://github.com/xu756)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://github.com/xu756)
 
+-->
+
+
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/xu756/count.svg)](https://github.com/xu756) visitor, Thank You!🎉🎉
 
+<!--
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -62,6 +68,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/xu756/co
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xu756&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
+-->
 
 
 ## My Skill Set  
@@ -132,6 +139,8 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/xu756/co
 <br/>  
 
 
+
+<!--
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/xu756" target="_blank">
@@ -152,7 +161,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/xu756/co
 <a  target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
+</div> 
+-->
 <br/>  

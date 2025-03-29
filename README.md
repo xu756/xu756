@@ -5,7 +5,7 @@
 <table style="margin-left: auto; margin-right: auto;">
 <tr>
 <td> 
-  <img align="center" src="https://streak-stats.demolab.com?user=xu756&hide_border=true&border_radius=4.9" /> 
+  <a ><img src="https://streak-stats.demolab.com?user=xu756&hide_border=true" alt="GitHub Streak" /></a>
 
 </td>
 <td> 

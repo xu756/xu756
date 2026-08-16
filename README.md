@@ -9,9 +9,10 @@
 
 </td>
 <td> 
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=xu756&theme=vue&count_private=true" /> 
+  <img align="center" src="https://github-stats-extended-frontend-pearl-six.vercel.app/api?username=xu756&include_all_commits=true&theme=transparent" /> 
 
 </td>
+
 </tr>
 </table>
 </html>

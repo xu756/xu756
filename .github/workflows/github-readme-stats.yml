@@ -2,11 +2,11 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # 每天更新一次
+    - cron: "0 6 * * *"  # 每天早上6点更新
   workflow_dispatch:  # 允许手动触发
 
 permissions:
-  contents: write  # 允许工作流提交生成后的 SVG
+  contents: write  # 允许 GitHub Actions 写入仓库内容
 
 jobs:
   build:
@@ -20,7 +20,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}  # 使用 GitHub Secrets 中存储的 PAT
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -28,7 +28,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit cards
         run: |

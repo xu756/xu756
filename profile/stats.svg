@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">xu756's GitHub Stats, Rank: A-</title>
+        <title id="titleId">xu756&#39;s GitHub Stats, Rank: A-</title>
         <desc id="descId">Total Stars Earned: 51, Total Commits  (last year) : 3910, Total PRs: 121, Total Issues: 103, Contributed to (last year): 5</desc>
         <style>
           .header {
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >xu756's GitHub Stats</text>
+      >xu756&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -159,7 +159,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="stars"
       >51</text>
@@ -174,7 +174,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="commits"
       >3.9k</text>
@@ -189,7 +189,7 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="prs"
       >121</text>
@@ -204,7 +204,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="issues"
       >103</text>
@@ -219,7 +219,7 @@
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="contribs"
       >5</text>

@@ -6,13 +6,11 @@
 <tr>
 <td> 
   <a ><img src="https://streak-stats.demolab.com?user=xu756&hide_border=true" alt="GitHub Streak" /></a>
-
 </td>
 <td> 
-  <img align="center" src="https://github-stats-extended-frontend-pearl-six.vercel.app/api?username=xu756&include_all_commits=true&theme=transparent" /> 
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=xu756&include_all_commits=true" /> 
 
 </td>
-
 </tr>
 </table>
 </html>
